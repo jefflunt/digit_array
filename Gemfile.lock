@@ -1,11 +1,17 @@
+PATH
+  remote: .
+  specs:
+    digit_array (1.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
 
 PLATFORMS
-  ruby
+  x86_64-darwin-22
 
 DEPENDENCIES
+  digit_array!
 
 BUNDLED WITH
-   1.17.2
+   2.4.1
